@@ -17,8 +17,8 @@ class MyApp extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
-                Text('Text1'),
-                Text('Text2'),
+                Text('Das ist der Startpunkt'),
+                Text('Nur Scaffold. Alles auf GitHub'),
               ],
             ),
           ),
